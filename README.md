@@ -1,4 +1,5 @@
-== README MY HUNTER GL ==
+# My_Hunter_GL
+Duck Hunt like game made with love and CSFML
 
 This is My_Hunter_GL repository.
 It consists of a Duck Hunt like game.
